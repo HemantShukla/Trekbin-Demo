@@ -1,3 +1,5 @@
+/* Added first line comment to observe the behavior of tracking changes */
+
 # Auto detect text files and perform LF normalization
 * text=auto
 
